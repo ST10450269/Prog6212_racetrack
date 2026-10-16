@@ -1,0 +1,14 @@
+C:\Users\Arshad\Documents\DockerDemoApi\bin\Release\net8.0\DockerDemoApi.exe
+C:\Users\Arshad\Documents\DockerDemoApi\bin\Release\net8.0\DockerDemoApi.deps.json
+C:\Users\Arshad\Documents\DockerDemoApi\bin\Release\net8.0\DockerDemoApi.runtimeconfig.json
+C:\Users\Arshad\Documents\DockerDemoApi\bin\Release\net8.0\DockerDemoApi.dll
+C:\Users\Arshad\Documents\DockerDemoApi\bin\Release\net8.0\DockerDemoApi.pdb
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\DockerDemoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\DockerDemoApi.AssemblyInfoInputs.cache
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\DockerDemoApi.AssemblyInfo.cs
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\DockerDemoApi.csproj.CoreCompileInputs.cache
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\DockerDemoApi.dll
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\refint\DockerDemoApi.dll
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\DockerDemoApi.pdb
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\DockerDemoApi.genruntimeconfig.cache
+C:\Users\Arshad\Documents\DockerDemoApi\obj\Release\net8.0\ref\DockerDemoApi.dll
